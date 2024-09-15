@@ -1,2 +1,3 @@
 # TMNT
-Proyecto sistemas operqativos
+Proyecto sistemas operativos
+Sistemas de archivos
